@@ -1,8 +1,9 @@
 # ============================================================
-# module : rd-plot
-# author : peter swinburne
-# date   : 05/21/2021
-# brief  : plot reading utility
+# module     : rd-plot
+# author     : peter.swinburne@fortaleza-consulting.com
+# date       : 05/21/2021
+# brief      : log plot reading utility
+# updates by : 
 # ============================================================
 from tkinter import filedialog
 import tkinter as tk
